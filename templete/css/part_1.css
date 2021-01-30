@@ -1,0 +1,31 @@
+body{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.part_1{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    background:blue;
+}
+
+.part_1_ul{
+    list-style: none;
+}
+
+.part_1_div_1_item{
+    display:inline-block;
+    color:white;
+    margin-left:10px;
+}
+.part_1_div_2_item{
+    display:inline-block;
+    color:white;
+    margin-right:10px;
+    
+}
+.part_1_div_2_ul_item_link{
+    text-decoration: none;
+    color: white;
+}
